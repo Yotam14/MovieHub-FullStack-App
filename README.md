@@ -7,6 +7,20 @@ This full-stack web application allows users to explore a wide range of movies, 
 - 🔗 [Live Website](https://movie-hub-full-client.vercel.app)
 - 🔗 [GitHub Repo](https://github.com/nchmoka/MovieHub-FullStack-App)
 
+# Credentials:
+
+## Regular User
+
+| User         | Password |
+| ------------ | -------- |
+| user@app.app | 123456   |
+
+## Admin User
+
+| User          | Password |
+| ------------- | -------- |
+| admin@app.app | 123456   |
+
 ---
 
 ## 🚀 Features
